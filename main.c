@@ -106,7 +106,7 @@ void ToogleLED(uint16_t AnalogIn)
 	}
 	for(i = 0; i < AnalogIn; i++)
 	{
-		ST7735_PlotPoint(i+20, ST7735_BLUE);
+		ST7735_PlotPoint(i+20, ST7735_BLUE);  // Fill the area with blue color below the graph
 	}
 }
 
