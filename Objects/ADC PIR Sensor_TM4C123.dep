@@ -1,0 +1,92 @@
+Dependencies for Project 'ADC PIR Sensor', Target 'TM4C123': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\ST7735_Driver.h)(0x61A61F0C)()
+F (.\ST7735_Driver.c)(0x60F1EDEC)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_TM4C123-IC:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\objects\st7735_driver.o --omf_browse .\objects\st7735_driver.crf --depend .\objects\st7735_driver.d)
+I (ST7735_Driver.h)(0x61A61F0C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x602577D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602577DE)
+I (SPI.h)(0x60C5BFEC)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530EF2F6)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x550FE22C)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6E406)
+F (.\ADC.c)(0x633AB83E)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_TM4C123-IC:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (ADC.h)(0x60CCDC82)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530EF2F6)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x550FE22C)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F9F3E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602577DE)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6E406)
+F (.\ADC.h)(0x60CCDC82)()
+F (.\SPI.c)(0x60C91816)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_TM4C123-IC:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\objects\spi.o --omf_browse .\objects\spi.crf --depend .\objects\spi.d)
+I (SPI.h)(0x60C5BFEC)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530EF2F6)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x550FE22C)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F9F3E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602577DE)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6E406)
+I (ST7735_Driver.h)(0x61A61F0C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x602577D4)
+F (.\Timer.c)(0x60C6C070)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_TM4C123-IC:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\objects\timer.o --omf_browse .\objects\timer.crf --depend .\objects\timer.d)
+I (Timer.h)(0x60C6C2F2)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530EF2F6)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x550FE22C)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F9F3E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602577DE)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6E406)
+F (.\UART.c)(0x60F1E73E)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_TM4C123-IC:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (Timer.h)(0x60C6C2F2)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530EF2F6)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x550FE22C)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F9F3E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602577DE)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6E406)
+I (UART.h)(0x60CA659E)
+F (.\main.c)(0x633ABB0A)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_TM4C123-IC:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (ADC.h)(0x60CCDC82)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530EF2F6)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x550FE22C)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F9F3E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602577DE)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6E406)
+I (SPI.h)(0x60C5BFEC)
+I (UART.h)(0x60CA659E)
+I (Timer.h)(0x60C6C2F2)
+I (ST7735_Driver.h)(0x61A61F0C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x602577D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x602577D4)
+F (RTE\Device\TM4C123GH6PM\startup_TM4C123.s)(0x51B6D5F6)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_TM4C123-IC:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 536" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)
+F (RTE\Device\TM4C123GH6PM\system_TM4C123.c)(0x550A57CA)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_TM4C123-IC:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="536" -D_RTE_ -DTM4C123GH6PM -D_RTE_-o .\objects\system_tm4c123.o --omf_browse .\objects\system_tm4c123.crf --depend .\objects\system_tm4c123.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602577DE)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530EF2F6)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x550FE22C)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626F9F3E)
+I (C:\Users\derba\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6E406)
