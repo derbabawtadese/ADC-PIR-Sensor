@@ -7,6 +7,8 @@
 		DC/A0------->PA6 
 		SCL--------->PA2
 		SDA--------->PA5
+
+		PIR sensor -> PA2 (ADC Input)
 		
 	uController - TM4C123
 		
